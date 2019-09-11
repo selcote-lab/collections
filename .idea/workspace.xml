@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0021a6f-90a4-4fd7-8624-696bd4353088" name="Default Changelist" comment="" />
+    <list default="true" id="f0021a6f-90a4-4fd7-8624-696bd4353088" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre$Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Theatre.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qdjb9nPXj8RsEBMjMfCxwGPOYd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,5 +75,16 @@
       <updated>1568107435873</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
