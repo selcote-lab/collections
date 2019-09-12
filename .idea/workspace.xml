@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0021a6f-90a4-4fd7-8624-696bd4353088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tonasolution/MapProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/tonasolution/Theatre$Seat.class" afterDir="false" />
@@ -46,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MapProgram">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.tonasolution.Main" />
       <module name="Collections" />
@@ -57,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tonasolution.MapProgram" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tonasolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapProgram" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -81,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
